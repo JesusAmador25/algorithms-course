@@ -101,5 +101,3 @@ def max_subarray_kadane(A):
             end_index = i
     return max_so_far, start_index, end_index
 
-max_subarray_kadane(data)
-
